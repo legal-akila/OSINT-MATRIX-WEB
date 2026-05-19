@@ -53,12 +53,9 @@ osint-matrix-hub/
 ├── index.html      # Aplicación principal (HTML, CSS, JS todo en uno)
 └── README.md       # Este archivo
 
-# 🕵️‍♂️ OSINT HUB · Matrix Nexus
-
-**Directorio de herramientas OSINT** con interfaz tipo Matrix, verificación manual de estado y temas personalizables (oscuro, claro y ámbar).  
-Sin envío de datos, sin formularios externos, completamente autónomo.
-
 ## 🚀 Demo en vivo
+
+Sin envío de datos, sin formularios externos, completamente autónomo.
 
 👉 
 
