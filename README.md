@@ -57,7 +57,7 @@ osint-matrix-hub/
 
 Sin envío de datos, sin formularios externos, completamente autónomo.
 
-👉 
+👉 https://legal-akila.github.io/OSINT-MATRIX-WEB/
 
 ## 🛠️ Instalación y uso local
 
