@@ -63,5 +63,4 @@ Sin envío de datos, sin formularios externos, completamente autónomo.
 
 1. Clona el repositorio o descarga los archivos:
    ```bash
-   git clone https://github.com/TU-USUARIO/osint-matrix-hub.git
-   cd osint-matrix-hub
+   https://github.com/legal-akila/OSINT-MATRIX-WEB.git
